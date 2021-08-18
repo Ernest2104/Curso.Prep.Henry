@@ -1,0 +1,6 @@
+Variables: es donde se guarda y recupera un tipo de dato.
+Strings: variables de tipo cadena de caracteres.
+Funciones (argumentos, return): es una seccion del programa que calcula un valor independiente al resto del programa, los argumentos son valores que 
+se le pasan a la funcion para que realice los calculos, y return retorna el resultado de la función.
+Declaraciones if: son setencias condicionales, solo si se cumple la condicion se realiza la instruccion.
+Valores booleanos (true, false): son variables que puden tomar solo 2 valores.
