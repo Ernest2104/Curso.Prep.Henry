@@ -1,0 +1,3 @@
+for: el bucle FOR se utiliza para repetir una o mas instrucciones un numero determinado de veces.
+&&, ||, !: operadores lógicos, && ("Y", "AND"), la expresion devolverá veradero si las 2 expresiones son verderas, || ("O", "OR"), la expresión devolverá verdadero 
+si una de las 2 expresiones son verdaderas, ! ("negación", "NOT"), devuelve el valor opuesto del que se le pasa.
